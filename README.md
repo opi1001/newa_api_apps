@@ -1,8 +1,9 @@
-# news_api_apps
 
-A new Flutter project.
 
-## Getting Started
+
+
+# news_api_apps![Screenshot (152)](https://github.com/opi1001/newa_api_apps/assets/134625691/e3281c02-928a-48cb-b56b-e935f8a3fc53)
+
 
 This project is a starting point for a Flutter application.
 
