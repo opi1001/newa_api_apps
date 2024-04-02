@@ -1,10 +1,9 @@
-![Screenshot (153)](https://github.com/opi1001/newa_api_apps/assets/134625691/47a6ae0c-11c3-4075-a841-b1fae64f5036)
+![Screenshot (153)](https://github.com/opi1001/newa_api_apps/assets/134625691/47a6ae0c-11c3-4075-a841-b1fae64f5036)![Screenshot (154)](https://github.com/opi1001/newa_api_apps/assets/134625691/65498dd1-3cfb-4362-954b-db23c4d2e321)
 
 
+[Screenshot (152)](https://github.com/opi1001/newa_api_apps/assets/134625691/e3281c02-928a-48cb-b56b-e935f8a3fc53)
 
-
-# news_api_apps![Screenshot (152)](https://github.com/opi1001/newa_api_apps/assets/134625691/e3281c02-928a-48cb-b56b-e935f8a3fc53)
-
+# news_api_apps!
 
 This project is a starting point for a Flutter application.
 
